@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tailwind, JavaScript**
 
-- 👨‍💻 All of my projects are available at [logannde.me [Working...]](logannde.me [Working...])
+- 👨‍💻 All of my projects are available at (logannde.me [Working...])
 
 - 📫 How to reach me **logannaranjo4@gmail.com**
 
