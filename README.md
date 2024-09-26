@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Logan Naranjo</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Tailwind, JavaScript**
+- 🌱 I’m currently learning **PHP, JavaScript**
 
 - 👨‍💻 All of my projects are available at (logannde.me     [Working...]    )
 
