@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at (logannde.me     [Working...]    )
 
-- 📫 How to reach me **logannaranjo4@gmail.com**
+- 📫 How to reach me **lognarrod@alu.edu.gva.es**
 
 - ⚡ Fun fact **I think I am disciplined**
 
