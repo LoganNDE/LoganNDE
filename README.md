@@ -1,10 +1,13 @@
 <h1 align="center">Hi 👋, I'm Logan Naranjo</h1>
-<h3 align="center">A passionate website developer</h3>
+<h3 align="center">A passionate Web Developer</h3>
 
-- 🌱 I’m currently learning **React and Angular**
+- 🌱 I’m currently learning **React** and **Angular**
+- 💻 You can explore some of my work at [logannde.me](https://logannde.me) <!-- Make sure the link works -->
+- 📫 Feel free to contact me at **lognarrod@alu.edu.gva.es**
+- ⚡ Fun fact: **I'm surprisingly disciplined when it comes to learning new tech**
 
-- 👨‍💻 All of my projects are available at (logannde.me     [Working...]    )
+### 🛠️ Languages & Tools
+React · Angular · Laravel · JavaScript · PHP · MySQL · Tailwind CSS · Git
 
-- 📫 How to reach me **lognarrod@alu.edu.gva.es**
-
-- ⚡ Fun fact **I think I am disciplined**
+### 📈 GitHub Stats
+![Logan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=logan-naranjo&show_icons=true&theme=radical)
