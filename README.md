@@ -10,4 +10,4 @@
 React · Angular · Laravel · JavaScript · PHP · MySQL · Tailwind CSS · Git
 
 ### 📈 GitHub Stats
-![Logan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=logan-naranjo&show_icons=true&theme=radical)
+![Logan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoganNDE&show_icons=true&theme=radical)
