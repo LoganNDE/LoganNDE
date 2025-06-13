@@ -14,7 +14,7 @@
 
 🌱 Siempre en proceso de aprendizaje y mejora continua con tecnologías modernas y buenas prácticas de desarrollo.
 
-📫 Puedes contactarme en: **lognarrod@alu.edu.gva.es**
+📫 Puedes contactarme en: **logannaranjo4@gmail.com**
 
 ---
 
