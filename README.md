@@ -5,7 +5,6 @@
 
 🛠️ He trabajado en:
 - Desarrollo y personalización de módulos y temas en **PrestaShop**
-- Desarrollo a medida en **Prestashop**
 - Integración de APIs, pasarelas de pago y servicios de envío
 - Optimización SEO y mejoras visuales centradas en el usuario
 - Desarrollo full-stack con **Laravel**, **PHP**, **JS** y **Vite**
